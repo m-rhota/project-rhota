@@ -1,0 +1,26 @@
+# Hardware para Proyecto Iota
+
+# Comunicación
+- Notecard
+- Swan r5
+
+
+## Conectores
+- Molex Mini-Fit Jr 4.2mm (4 pines)
+
+## Energía
+- Regulador AC IRM-10-5 https://www.digikey.com.mx/es/products/detail/mean-well-usa-inc/IRM-10-5/7704657
+- Mini regulador 5V https://a.co/d/0cNvCGs
+- Filtro EMI https://a.co/d/0cNvCGs
+- Batería LiPo 3.7V 2000mAh
+
+## Caja / Montaje
+- Caja IP65
+
+## Bullets
+- Salidas open drain
+- Entradas optoacopladas
+- Entrada sensor 1-wire
+
+## Research
+- Bluetooth usuario-modulo
