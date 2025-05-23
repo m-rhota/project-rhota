@@ -1,0 +1,16 @@
+# Funciones de Rhota
+
+## Conexión y comunicación
+- GPS
+- Conexión a Plataforma
+- Comandos desde plataforma
+- Geo-cercas
+- Anti-jammer
+- Conexión por bluetooth
+- Actualizaciones desde plataforma
+
+## Hardware
+- Entradas digitales configurables
+- Entradas analógicas configurables
+- Salidas open drain
+
