@@ -7,6 +7,8 @@
 
 ## Conectores
 - Molex Mini-Fit Jr 4.2mm (4 pines)
+- M.2 B-Key Edge Connector (75-pin)
+- M.2 edge connector ( 0.5 mm pitch)
 
 ## Energía
 - Regulador AC IRM-10-5 https://www.digikey.com.mx/es/products/detail/mean-well-usa-inc/IRM-10-5/7704657
@@ -24,3 +26,8 @@
 
 ## Research
 - Bluetooth usuario-modulo
+
+## Anti-jammer
+- Cellular
+- GPS
+- Bluetooth
