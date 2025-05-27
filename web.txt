@@ -1,0 +1,16 @@
+✅ Etapa 1: Prototipo funcional
+
+ThingsBoard CE en Windows.
+
+Integración: Notecard, mapas y sensores.
+
+Ngrok para presentación.
+
+
+🔁 Etapa 2: Profesionalización
+
+Dominio + hosting.
+
+Template web estilo IoT Dashboard.
+
+Migrar el backend o conectar vía API.
