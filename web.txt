@@ -14,3 +14,30 @@ Dominio + hosting.
 Template web estilo IoT Dashboard.
 
 Migrar el backend o conectar vía API.
+
+
+PostgreSQL password: postgres
+pgAdmin 4 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PostgreSQL 17
+
+C:\Program Files (x86)\thingsboard\packaging\java\scripts\windows>
+
+
+Puerto ocupado en PS
+netstat -aon | findstr :8080
+Si ves algo como LISTENING en ese puerto, está ocupado.
+taskkill /PID 9224 /F
+
+
+
+Parece que este si funciona
+-Node-RED
+npm install -g --unsafe-perm node-red
+node-red
+
+esto con ngrok
+
+y postman
+
+
+DigitalOcean
+para escalar node-red a la nube
